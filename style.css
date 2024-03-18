@@ -1,0 +1,38 @@
+#loanCal {
+  /* width: 375px; */
+  height: 295px;
+  background-color: #797072e3;
+  color: #fff;
+  /* margin-left: 275px;
+  padding-left: 90px;
+  padding-top: 20px; */
+  margin: auto;
+  margin-top: 95px;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+#months {
+  width: 175px;
+  height: 20px;
+}
+
+#amount {
+  width: 175px;
+  height: 20px;
+}
+
+#interest_rate {
+  width: 175px;
+  height: 20px;
+  margin-left: 2px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+body {
+  background-color: lightskyblue;
+}
